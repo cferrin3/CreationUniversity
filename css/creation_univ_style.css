@@ -1,0 +1,625 @@
+
+#topbar {width: 100%;
+        height: 60px;
+        background-color: #003366;
+         }
+.fixwidth {
+    width: 900px;
+    margin: auto;
+           } 
+#creation {
+    font-family:Georgia, Helvitica, serif;
+    font-size: 3em;
+    color: #003366;
+}
+
+#topmenu {font-family: Arial, Helvetica, sans-serif;
+            font-size: 1.1em;
+          }
+
+#topmenu li {
+	float:left;
+             color:white;
+            list-style: none;
+            margin-left: 20px;
+	margin-right: 20px;
+            padding-top: 20px;
+             }
+
+#searchbar {float: left;
+            margin-left: 35px;
+            padding-top: 16px;
+            }
+
+#searchbar input {
+    font-size: 1.0em;
+    padding-left: 6px;
+}
+.headerlink {
+	color:#FFFFFF;
+        text-decoration: none;
+}
+
+.headerlink:visited{color:#FFFFFF;
+          }
+
+
+a:visited{color:#003366;
+          }
+
+a:hover {text-decoration-line: underline;}
+
+#content {width: 100%;
+        background-color:aliceblue;
+		color: #003366;
+		margin-top: -3px;
+         }
+
+#headlineimage
+
+#topstoriesp {margin-left: 12px;
+              margin-top: 6px;
+}
+
+#footline1 a {font-family:'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; 
+    font-size: 1em;
+    font-weight: 400;
+    color: blue;
+    margin-bottom: 5px;      
+}
+
+#footlineauthor1 {font-family:'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif;
+    font-size: 1em;
+    color: dimgray;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: -15px;
+} 
+
+#footarticle {
+    font-family:'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif;
+    font-size: 1em;
+    width: 550px;
+    margin-top: -10px;
+	text-align: left;
+}
+#fullstory a {font-family:'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; 
+    font-size: 1em;
+    color: blue;
+    margin-bottom: 5px;      
+}
+
+#fullstory a:hover{text-decoration: none; color: red}
+
+#bottombar {width: 100%;
+        height: 120px;
+        background-color: #003366;
+         }
+.fixwidth {
+    width: 900px;
+    margin: auto;
+           } 
+
+#headlineimage {
+  box-shadow: 5px 10px;
+  margin-left: 150px;
+	
+}
+
+.headline {
+	margin-left: 10px;
+	font-size: 35px;
+	text-align: center;
+	background-color: aliceblue;
+	padding:50 0 50 0;
+	color: #003366;
+	
+}
+
+#brandtitlelogo {
+	margin-left:
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+
+#socialmedia {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 120px;
+	margin-top: 25px;
+}
+
+#instagram {
+	padding-left: 10px
+}
+
+#twitter {
+	padding-right: 10px;
+}
+
+#creatingworld {
+	box-shadow: 5px 10px;
+}
+
+.booksizer {
+	  width: 110px;
+  height: 160px;
+  -webkit-transition-property: width, height; /* Safari */
+  -webkit-transition-duration: 2s; /* Safari */
+  transition-property: width, height;
+  transition-duration: 2s;
+}
+
+.booksizer:hover {
+  width: 275px;
+  height: 400px;
+}
+
+#articletitle {
+	font-family: georgia, serif;
+	font-size: 30px
+}
+
+#article1 {
+	background-color: azure
+}
+
+#article2 {
+	background-color: cornsilk
+}
+
+#article3 {
+	background-color:aliceblue;
+}
+
+.bookreading {
+	margin-top: -35px;
+}
+
+#systemlist {
+	font-size: 30px;
+	text-align: left;
+}
+
+#lowercontent {
+}
+
+.bookcover {
+	  background: url(images/Creating%20Your%20World%20Book%20Cover.jpg) no-repeat;
+  	margin-left: 30px;
+	margin-top:40px; 
+}
+.bookcover:hover {
+  background-position: 0 -30px;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 15px;
+  background-color:aliceblue;
+  padding: 20px 400px;
+}
+
+#more {display: none;}
+
+#articlereading {
+/*
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: px;
+	margin-top: 25px;
+*/
+}
+
+#video1 {
+	margin-top: 50px;
+	background-color: aliceblue;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.page {
+	background-color: aliceblue;
+}
+
+#ipadreading {
+	padding-top: 30px
+}
+
+#footline1 {
+	text-align: left;
+	font-size: 40px;
+	margin-left: 20px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+#articletext {
+	font-size: 2em;
+	text-align:left;
+	margin-left: 20px;
+	margin-top: -1px;
+}
+
+.space {
+	margin-top: 650px;
+	background-color:aliceblue
+}
+* {
+  box-sizing: border-box;
+  text-align: left;
+	font-size: 20px;	
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px;
+	
+}
+
+.left, .right {
+  width: 33%;
+}
+
+.middle {
+  width: 33%;
+}
+
+.right {
+	width: 33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.booktitle {
+	margin-left: 300px;
+}
+
+.booktitle1 {
+	color: #003366;
+	text-align: left;
+	font-size: 40px;
+	margin-left: 10px;
+	display: inline;
+}
+
+.book1desciption {
+	color: #003366;
+	font-size: 30px;
+	text-align: left;
+	margin-left:10px;
+	margin-top: -15px
+}
+
+#greatreadingtext {
+	color: #003366;
+	font-size: 40px
+}
+
+.bookpurchase {
+	color: #003366;
+	font-size: 20px;
+	text-align: left;
+	margin-left:10px;
+	margin-bottom: 20px;
+}
+
+#eventstitle {
+	color: #003366;
+	font-size: 40px;
+}
+
+#caption_process {
+	margin-left:105px;
+	font-size: .5em;
+	text-align: center;
+}
+}caption_goals {
+	margin-left:115px;
+	font-size: .5em;
+	text-align: center;	
+}
+#caption_design {
+	margin-left:118px;
+	font-size: .5em;
+	text-align: center;
+}
+#caption_projects {
+	margin-left:115px;
+	font-size: .5em;
+	text-align: center;
+}
+#caption_systems {
+	margin-left:137px;
+	font-size: .5em;
+	text-align: center;
+}
+
+
+#caption_project {
+	margin-left:115px;
+	font-size: .5em;
+	text-align: center;
+}
+
+#caption_goals {
+		margin-left:115px;
+	font-size: .5em;
+	text-align: center;
+}
+
+.bookrow {
+	display:flex;
+	flex-direction: row;
+}
+
+.booktextcontainer {
+	display: flex;
+	flex-direction:column;
+}
+
+.book1desciptionB {
+	color: #003366;
+	font-size: 20px;
+	text-align: left;
+	margin-left:10px;
+	margin-top: -15px
+}
+
+#homespace {
+}
+
+#topspace {
+	margin-top: -35px;
+}
+
+.accordion {
+  background-color:cornflowerblue;
+  color: #444;
+  cursor: pointer;
+  padding: 10px;
+  width:6%;
+  text-align: center;
+  border-style:solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 15px;
+  outline: none;
+  transition: 0.4s;
+	color: black;
+	font-size: 1em;
+}
+
+.active, .accordion:hover {
+  background-color: aliceblue;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+.panel3 {
+	  padding: 0 18px;
+  background-color: aliceblue;
+  display: none;
+  overflow: hidden;
+}
+
+.panel2 {
+	  padding: 0 18px;
+  background-color: cornsilk;
+  display: none;
+  overflow: hidden;
+}
+
+.panel1 {
+	  padding: 0 18px;
+  background-color: azure;
+  display: none;
+  overflow: hidden;
+}
+
+#brandlogo {
+	
+}
+
+#table1 {
+	width: 50%;
+	padding-bottom: 25px;
+}
+
+
+}
+
+#tableheading1 {
+}
+
+#line1 {
+	background-color: aqua;
+}
+
+#line3 {
+	background-color: aqua;
+
+}
+
+#presenters {
+	color: #003366;
+	font-size: 50px;
+}
+
+#bgimage {
+	text-align: center;
+	font-size: 50px;
+	padding: 50px;
+	color:whitesmoke;
+	background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Water.jpg?itok=lOpwiABA");	
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #003366;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: aliceblue;
+  color: #003366;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+/*
+#social-icons {list-style-type: none;
+	margin-left: 50px;
+}
+#social-icons a {border-radius:2px; border:0px; display:inline-block;}</code>
+ 
+a.facebook{display:block; background: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Water.jpg?itok=lOpwiABA") no-repeat 0 -30px; width:30px; height:30px;}
+a.facebook:hover{background-position: 0 0;}
+ 
+a.twitter{display:block; background: url(../images/social-icons.png) no-repeat -30px -30px; width:30px; height:30px;}
+a.twitter:hover{background-position:-30px 0;}
+ 
+a.youtube{display:block; background: url(../images/social-icons.png) no-repeat -60px -30px; width:30px; height:30px;}
+a.youtube:hover{background-position:-60px 0;}
+ 
+a.instagram{display:block; background: url(../images/social-icons.png) no-repeat -90px -30px; width:30px; height:30px;}
+a.instagram:hover{background-position:-90px 0;}
+ 
+a.linkedin{display:block; background: url(../images/social-icons.png) no-repeat -120px -30px; width:30px; height:30px;}
+a.linkedin:hover{background-position:-120px 0;}
+ 
+a.tumblr{display:block; background: url(../images/social-icons.png) no-repeat -150px -30px; width:30px; height:30px;}
+a.tumblr:hover{background-position:-150px 0;}
+ 
+a.googleplus{display:block; background: url(../images/social-icons.png) no-repeat -180px -30px; width:30px; height:30px;}
+a.googleplus:hover{background-position:-180px 0;}
+.headlines {
+	color: #003366;
+	text-align: center;
+	
+}
+*/
+
+#reading {
+	font-size: 12px;
+	margin-left: 170px;
+	margin-top: -3px;
+}
+
+#landmark {
+	
+}
+
+#becreativetext {
+	color: #003366;
+	font-size:60px;
+	text-align: center
+	
+}
+
+#fivestepstext {
+	color: #003366;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 25px;
+}
+
+#listtext {
+	color: #003366;
+	font-size: 25px;
+}
